@@ -1,0 +1,81 @@
+{
+    "users":[
+        {
+         "email": "Blaze.Stokes@yahoo.com",
+         "firstName": "Scotty",
+         "lastName": "Frami",
+         "username": "Kennith_Stokes84",
+         "id": "1"
+        },
+        {
+         "email": "Howell.Kuphal8@yahoo.com",
+         "firstName": "Norwood",
+         "lastName": "Weber",
+         "username": "Derrick89",
+         "id": "2"
+        },
+        {
+         "email": "Colby.White@hotmail.com",
+         "firstName": "Katlyn",
+         "lastName": "Dare",
+         "username": "Izabella_Kuvalis54",
+         "id": "3"
+        },
+        {
+         "email": "Cathryn.Kertzmann74@hotmail.com",
+         "firstName": "Carolyne",
+         "lastName": "Donnelly",
+         "username": "Royce_Kilback83",
+         "id": "4"
+        },
+        {
+         "email": "Hilma_Bergnaum@hotmail.com",
+         "firstName": "Marta",
+         "lastName": "Botsford",
+         "username": "Akeem_Ward",
+         "id": "5"
+        },
+        {
+         "email": "Esmeralda_Cassin31@gmail.com",
+         "firstName": "Lia",
+         "lastName": "Herzog",
+         "username": "Adeline49",
+         "id": "6"
+        },
+        {
+         "email": "Verlie_Casper@hotmail.com",
+         "firstName": "Eula",
+         "lastName": "Rice",
+         "username": "Marta62",
+         "id": "7"
+        },
+        {
+         "email": "Milan_Wyman58@gmail.com",
+         "firstName": "Audra",
+         "lastName": "Walsh",
+         "username": "Elna13",
+         "id": "8"
+        },
+        {
+         "email": "Cecile68@hotmail.com",
+         "firstName": "Eugenia",
+         "lastName": "Quigley",
+         "username": "Delphine_Kris83",
+         "id": "9"
+        },
+        {
+         "email": "Josiane78@yahoo.com",
+         "firstName": "Yoshiko",
+         "lastName": "Hane",
+         "username": "Mallory.Vandervort26",
+         "id": "10"
+        },
+        {
+         "email": "Kacie82@gmail.com",
+         "firstName": "Cody",
+         "lastName": "Mante",
+         "username": "Carolyn.Ratke",
+         "id": "11"
+        }
+       ]
+}
